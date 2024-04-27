@@ -1,1 +1,1 @@
-# Banking_system
+# Banking_system Sparks Banking is a web-based system that use HTML, CSS, and JavaScript to verify transaction histories and transfer funds to users. It also has a detailed about us page with links to numerous other pages and upcoming features.
